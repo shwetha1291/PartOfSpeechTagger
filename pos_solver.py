@@ -1,9 +1,7 @@
 ###################################
-# CS B551 Fall 2015, Assignment #5
 #
-# Your names and user ids:
-# Dipika Bandekar: dipiband
-# Shwethambari Surendran : ssurendr
+# Shwethambari Surendran
+# Dipika Bandekar
 #
 ####
 # Report:
